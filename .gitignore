@@ -1,0 +1,12 @@
+*
+!*.c
+!*.cpp
+!Makefile
+!.gitignore
+!*.md
+!*.h
+!*.png
+!*.pdf
+!*.pptx
+!*.txt
+!*/
